@@ -1,0 +1,39 @@
+_repo: Nelly-s-Silver-MineA-Story-of-Colorado-Life_34430
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Richards, Harriet Roosevelt
+    deathdate: 1932
+    gutenberg_agent_id: '8437'
+    url: http://www.gutenberg.org/2009/agents/8437
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jackson, Helen Hunt
+    aliases:
+    - Hunt, Helen Maria Fiske
+    - Jackson, H. H. (Helen Hunt)
+    - Holm, Saxe
+    - Jackson, Helen Maria Fiske Hunt
+    birthdate: 1830
+    deathdate: 1885
+    gutenberg_agent_id: '1030'
+    url: http://www.gutenberg.org/2009/agents/1030
+    wikipedia: http://en.wikipedia.org/wiki/Helen_Hunt_Jackson
+description: A New England preacher suffering from asthma moves his family to Colorado.
+  A classic tale illustrating the positive thinking that won the West.
+gutenberg_issued: '2010-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34430'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Colorado -- History -- To 1876 -- Juvenile fiction'
+- !lcc 'PZ'
+title: 'Nelly''s Silver Mine: A Story of Colorado Life'
+url: http://www.gutenberg.org/ebooks/34430
