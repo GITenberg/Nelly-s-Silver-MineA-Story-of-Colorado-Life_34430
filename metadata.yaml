@@ -24,6 +24,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Helen_Hunt_Jackson
 description: A New England preacher suffering from asthma moves his family to Colorado.
   A classic tale illustrating the positive thinking that won the West.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34430#Nelly-s-Silver-MineA-Story-of-Colorado-Life
 gutenberg_issued: '2010-12-01'
 gutenberg_type: Text
 identifiers:
